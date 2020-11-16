@@ -1,6 +1,6 @@
 # MusicallyRE
 
-MusicallyRE is an educational project to learn more about Reverse Engineering. The main goal of this project is to ~~create a functional client library which can be used to receive data from [musical.ly](https://www.musical.ly/en-US/)~~ get gqpple's email, Tik Tok username, and/or password. [Fuck you gqqples](https://youtu.be/mJmL8xOr37I).
+MusicallyRE is an educational project to learn more about Reverse Engineering. The main goal of this project is to ~~create a functional client library which can be used to receive data from [musical.ly](https://www.musical.ly/en-US/)~~ get gqpple's email, Tik Tok username, and/or password. [![Fuck you gqqples](https://youtu.be/mJmL8xOr37I).
 
 > **Why musically?**  
 > Simple, it has not really been done yet (publicly). A simple search only gives [mangledbottles/Musically-API](https://github.com/mangledbottles/Musically-API) which seems to be broken for a long time because of the `X-Request-Sign5` header.
@@ -11,7 +11,7 @@ This repository consists of two projects.
 
 ### src-musically [![AppVeyor](https://img.shields.io/appveyor/ci/AeonLucid/MusicallyRE/master.svg?maxAge=60)](https://ci.appveyor.com/project/AeonLucid/MusicallyRE)  [![NuGet](https://img.shields.io/nuget/v/MusicallyApi.svg?maxAge=60)](https://www.nuget.org/packages/MusicallyApi)
 
-This contains C# code (.Net Standard 2.0) to communicate with the musical.ly rest API. Check the example to figure out how to use it. [Here is a list of compatible versions that work with .Net standard 2.0](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
+This contains C# code (.Net Standard 2.0) to communicate with the musical.ly rest API. Check the example to figure out how to use it. [![Here is a list of compatible versions that work with .Net standard 2.0](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
 
 #### Features
 
