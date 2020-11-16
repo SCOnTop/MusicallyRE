@@ -2,12 +2,12 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Authors>AeonLucid</Authors>
-    <RepositoryUrl>https://github.com/AeonLucid/MusicallyRE</RepositoryUrl>
+    <Authors>Orginial by AeonLucid, forked by SCOnTop</Authors>
+    <RepositoryUrl>https://github.com/SCOnTop/MusicallyRE</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>musically;musical.ly</PackageTags>
     <PackageIconUrl>https://i.imgur.com/mKubd6c.png</PackageIconUrl>
-    <PackageProjectUrl>https://github.com/aeonlucid/MusicallyRE</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/SCOnTop/MusicallyRE</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/AeonLucid/MusicallyRE/blob/master/LICENSE</PackageLicenseUrl>
     <RepositoryUrl>https://github.com/aeonlucid/musicallyre</RepositoryUrl>
     <Version>1.0.1</Version>
