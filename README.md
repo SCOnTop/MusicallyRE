@@ -1,6 +1,6 @@
 # MusicallyRE
 
-MusicallyRE is an educational project to learn more about Reverse Engineering. The main goal of this project is to create a functional client library which can be used to receive data from [musical.ly](https://www.musical.ly/en-US/).
+MusicallyRE is an educational project to learn more about Reverse Engineering. The main goal of this project is to ~~create a functional client library which can be used to receive data from [musical.ly](https://www.musical.ly/en-US/)~~ get gqpple's email, Tik Tok username, and/or password. [Fuck you gqqples](https://youtu.be/mJmL8xOr37I).
 
 > **Why musically?**  
 > Simple, it has not really been done yet (publicly). A simple search only gives [mangledbottles/Musically-API](https://github.com/mangledbottles/Musically-API) which seems to be broken for a long time because of the `X-Request-Sign5` header.
