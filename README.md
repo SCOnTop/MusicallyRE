@@ -11,7 +11,7 @@ This repository consists of two projects.
 
 ### src-musically [![AppVeyor](https://img.shields.io/appveyor/ci/AeonLucid/MusicallyRE/master.svg?maxAge=60)](https://ci.appveyor.com/project/AeonLucid/MusicallyRE)  [![NuGet](https://img.shields.io/nuget/v/MusicallyApi.svg?maxAge=60)](https://www.nuget.org/packages/MusicallyApi)
 
-This contains C# code (netstandard 2.0) to communicate with the musical.ly rest API. Check the example to figure out how to use it.
+This contains C# code (.Net Standard 2.0) to communicate with the musical.ly rest API. Check the example to figure out how to use it. [Here is a list of compatible versions that work with .Net standard 2.0](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
 
 #### Features
 
