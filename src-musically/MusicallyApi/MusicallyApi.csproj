@@ -8,8 +8,8 @@
     <PackageTags>musically;musical.ly</PackageTags>
     <PackageIconUrl>https://i.imgur.com/mKubd6c.png</PackageIconUrl>
     <PackageProjectUrl>https://github.com/SCOnTop/MusicallyRE</PackageProjectUrl>
-    <PackageLicenseUrl>https://github.com/AeonLucid/MusicallyRE/blob/master/LICENSE</PackageLicenseUrl>
-    <RepositoryUrl>https://github.com/aeonlucid/musicallyre</RepositoryUrl>
+    <PackageLicenseUrl>https://github.com/SCOnTop/MusicallyRE/blob/master/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/SCOnTop/MusicallyRE</RepositoryUrl>
     <Version>1.0.1</Version>
     <Product>MusicallyApi</Product>
   </PropertyGroup>
