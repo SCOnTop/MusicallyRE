@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27428.2015
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicallyApi", "MusicallyApi\MusicallyApi.csproj", "{A617DA43-7F72-4F1A-BB23-8C0C915105F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicallyApi", "MusicallyApi\MusicallyApi.csproj", "{A617DA43-7F72-4F1A-BB23-8C0C915105F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicallyApi.Example", "MusicallyApi.Example\MusicallyApi.Example.csproj", "{A1BF98A2-FF14-4939-A48F-0182C9EACB6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicallyApi.Example", "MusicallyApi.Example\MusicallyApi.Example.csproj", "{A1BF98A2-FF14-4939-A48F-0182C9EACB6D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
