@@ -1,4 +1,6 @@
-# MusicallyRE
+# MusicallyRE 
+[![AppVeyor](https://img.shields.io/appveyor/ci/s1rcheese/MusicallyRE/master.svg?maxAge=60)](https://ci.appveyor.com/project/s1rcheese/MusicallyRE) 
+[![CodeFactor](https://www.codefactor.io/repository/github/s1rcheese/musicallyre/badge)](https://www.codefactor.io/repository/github/s1rcheese/musicallyre)
 
 MusicallyRE is an educational project to learn more about Reverse Engineering. The main goal of this project is to ~~create a functional client library which can be used to receive data from [musical.ly](https://www.musical.ly/en-US/)~~ find a way to get someone's Tik Tok email and/or password.
 
@@ -9,7 +11,7 @@ MusicallyRE is an educational project to learn more about Reverse Engineering. T
 
 This repository consists of two projects.
 
-### src-musically [![AppVeyor](https://img.shields.io/appveyor/ci/s1rcheese/MusicallyRE/master.svg?maxAge=60)](https://ci.appveyor.com/project/s1rcheese/MusicallyRE)
+### src-musically 
 
 This contains C# code (.Net Standard 2.0) to communicate with the musical.ly rest API. Check the example to figure out how to use it. [Here is a list of compatible versions that work with .Net standard 2.0](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
 
