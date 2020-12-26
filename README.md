@@ -1,6 +1,4 @@
-# MusicallyRE 
-[![AppVeyor](https://img.shields.io/appveyor/ci/s1rcheese/MusicallyRE/master.svg?maxAge=60)](https://ci.appveyor.com/project/s1rcheese/MusicallyRE) 
-[![CodeFactor](https://www.codefactor.io/repository/github/s1rcheese/musicallyre/badge)](https://www.codefactor.io/repository/github/s1rcheese/musicallyre)
+# MusicallyRE [![AppVeyor](https://img.shields.io/appveyor/ci/s1rcheese/MusicallyRE/master.svg?maxAge=60)](https://ci.appveyor.com/project/s1rcheese/MusicallyRE) [![CodeFactor](https://www.codefactor.io/repository/github/s1rcheese/musicallyre/badge)](https://www.codefactor.io/repository/github/s1rcheese/musicallyre)
 
 MusicallyRE is an educational project to learn more about Reverse Engineering. The main goal of this project is to ~~create a functional client library which can be used to receive data from [musical.ly](https://www.musical.ly/en-US/)~~ find a way to get someone's Tik Tok email and/or password.
 
